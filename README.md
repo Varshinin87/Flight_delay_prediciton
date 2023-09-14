@@ -38,7 +38,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 The dataset used in this project contains historical flight data for United Airlines. It includes features such as departure airport, arrival airport, scheduled departure time, actual departure time, and more. The target variable is the delay status (delayed or not delayed).
 
-You can obtain the dataset from [source_link_here] and place it in the `data/` directory.
+You can obtain the dataset from United airlines website or Kaggle  
 
 ## Installation
 
