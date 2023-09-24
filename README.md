@@ -2,7 +2,7 @@
 
 # United Airlines Flight Delay Prediction
 
-This project is aimed at predicting flight delays for United Airlines using machine learning algorithms. Flight delays can be frustrating for passengers, and this predictive model can help travelers plan their trips more effectively. This README file provides an overview of the project and instructions on how to use it.
+This project is aimed at predicting flight delays for United Airlines using machine learning algorithms using python. Flight delays can be frustrating for passengers, and this predictive model can help travelers plan their trips more effectively. This README file provides an overview of the project and instructions on how to use it.
 
 ## Table of Contents
 - [Introduction](#introduction)
